@@ -1,0 +1,6 @@
+1) java supports $ in variable name
+2) characters in java are stored as unicode and not as numbers as in c/c++. But all the old character tricks work because the first 127 characters of ASCII are the same as the unicode character set
+3) A variable in the outer scope and a variable in the inner scope cannot have the same name. (unlike c/c++)
+4) byte b=50; b=b*2;  //causes problems because b is of type byte and b*2 is automatically promoted to int and it cannot be stored in byte. 
+5)JAVA DOES NOT SUPPORT POINTERS.. YEAH!!!!
+6)Unlike c/c++ we can take mod of a decimal number.
