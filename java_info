@@ -5,3 +5,4 @@
 5)JAVA DOES NOT SUPPORT POINTERS.. YEAH!!!!
 6)Unlike c/c++ we can take mod of a decimal number.
 7)Negative numbers are stored as two's complement.
+8)Unsigned right shift >>> signed right shift is >>
