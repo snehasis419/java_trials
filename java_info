@@ -6,4 +6,5 @@
 6)Unlike c/c++ we can take mod of a decimal number.
 7)Negative numbers are stored as two's complement.
 8)Unsigned right shift >>> signed right shift is >>
-9)break label; there is no goto statement.. only break label. it allows you to jump control to a block that contains the break statement.  
+9)break label; there is no goto statement.. only break label. it allows you to jump control to a block that contains the break statement. 
+10) this keyword is used to refer to the current object. 
